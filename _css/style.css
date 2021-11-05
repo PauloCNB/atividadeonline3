@@ -1,0 +1,25 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+#verde{
+    background-color: rgb(62, 175, 62);
+    height: 100px;
+}
+.texto{
+    font-size: 24px;
+    font-family: arial;
+    font-weight: bold;
+    text-align: center;
+}
+body{
+    background-image: url(https://wallpaperaccess.com/full/3352658.jpg);
+}
+#marrom{
+    background-color: rgba(80, 47, 4, 0.932);
+    height: 500px;
+}
+#amarelo{
+    background-color: yellow;
+    height: 500px;
+}
